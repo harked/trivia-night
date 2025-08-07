@@ -1,0 +1,5 @@
+{
+  "name": "Trivia Night",
+  "description": "A dynamic trivia night generator. Select a category, and the AI will generate unique questions for a fun-filled game. Features a two-player scoreboard and a sleek, modern interface.",
+  "requestFramePermissions": []
+}
